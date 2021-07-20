@@ -1,3 +1,6 @@
+
+![](https://github.com/SonaAle77/SonaAle77/blob/cdd80436b359450e8dfdbf0a626f29aa6d8aeaf0/Untitled%201.png)
+
 ### Hi there 👋
 
 <!--
