@@ -7,7 +7,6 @@ I'm Sona Ale Wilson,Computer Science Engineering Graduate from Christ University
 
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning multiple skills!
-- 🤔 I’m looking for help h
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](linkedin.com/in/sona-wilson-a2b8aa179)
 
