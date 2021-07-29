@@ -8,8 +8,8 @@ I'm Sona Ale Wilson,Computer Science Engineering Graduate from Christ University
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning multiple skills!
 - 💬 Ask me about anything
-- ![Tableau](https://public.tableau.com/app/profile/sona.ale.wilson)
-- ![Hacker Rank](https://www.hackerrank.com/sonaale1999)
+- 
 - <a href="https://public.tableau.com/app/profile/sona.ale.wilson">Tableau</a>
+- <a href="https://www.hackerrank.com/sonaale1999">Hacker Rank</a>
 
 
